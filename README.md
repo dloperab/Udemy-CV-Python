@@ -11,3 +11,7 @@ Code for [Python for Computer Vision with OpenCV and Deep Learning](https://www.
     * [Grid Detection](notebooks/06-object-detection/03-grid_detection.ipynb).
     * [Countour Detection](notebooks/06-object-detection/04-contour_detection.ipynb).
     * [Feature Matching](notebooks/06-object-detection/05-feature_matching.ipynb).
+
+---
+
+**Credits to Pierian Data Inc on <https://www.pieriandata.com/>**
