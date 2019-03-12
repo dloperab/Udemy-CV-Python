@@ -11,6 +11,10 @@ Code for [Python for Computer Vision with OpenCV and Deep Learning](https://www.
     * [Grid Detection](notebooks/06-object-detection/03-grid_detection.ipynb).
     * [Countour Detection](notebooks/06-object-detection/04-contour_detection.ipynb).
     * [Feature Matching](notebooks/06-object-detection/05-feature_matching.ipynb).
+    * [Watershed Algorithm](notebooks/06-object-detection/06-watershed_algorithm.ipynb).
+    * [Custom Seeds with Watershed Algorithm](notebooks/06-object-detection/07-custom_seeds_with_watershed_algo.ipynb).
+    * [Face Detection](notebooks/06-object-detection/08-face_detection.ipynb).
+    * [Licenses Plates Detections](notebooks/06-object-detection/09-licenses_plates_detections.ipynb).
 
 ---
 
